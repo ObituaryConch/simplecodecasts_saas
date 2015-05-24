@@ -2,7 +2,7 @@
 
 Coder Manual Project Application
 
-Subscription-based we application
+Subscription-based web application
 
 https://codermanual.com
 
